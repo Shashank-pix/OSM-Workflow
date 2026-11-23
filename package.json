@@ -1,0 +1,13 @@
+{
+  "name": "com.shashank.osm-workflow",
+  "displayName": "OSM Workflow",
+  "version": "0.1.0",
+  "unity": "6000.5",
+  "description": "Node-based authoring of packed OSM (Occlusion, Smoothness, Metallic) textures and a URP Lit-style shader. Editor-only.",
+  "documentationUrl": "https://github.com/Shashank-pix/OSM-Workflow#readme",
+  "keywords": [ "urp", "pbr", "texture packing", "orm", "osm", "shader" ],
+  "author": {
+    "name": "Shashank",
+    "url": "https://github.com/Shashank-pix"
+  }
+}
